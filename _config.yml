@@ -1,3 +1,4 @@
 name: Todd Garon
 baseurl: ""
+permalink: /404.html
 theme: jekyll-theme-cayman
