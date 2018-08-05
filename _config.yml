@@ -7,3 +7,4 @@ instagram : usergeneratedcontent
 baseurl: ""
 url: "https://www.toddgaron.com"
 permalink: /404.html
+include: ['_pages']
