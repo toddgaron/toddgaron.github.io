@@ -1,4 +1,10 @@
-name: Todd Garon
+title : Todd Garon
+tagline: A personal Website
+author :
+	  name : Todd Garon
+	  email : toddgaron@gmail.com
+	  github : toddgaron
+	  instagram : usergeneratedcontent
 baseurl: ""
 permalink: /404.html
 theme: jekyll-theme-cayman
