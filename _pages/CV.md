@@ -4,23 +4,22 @@ title: CV
 permalink: "/CV"
 ---
 
-## Education
+### Education
 
-  - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)
-  
-	Advisor: Professor Lisa Everett
+  - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
+   Advisor: Professor Lisa Everett
     
   - M.S. Physics, The University of Wisconsin - Madison, Madison WI (May 2013)
   - B.A. Physics, Reed College, Portland OR (May 2011)
 
-## AV Certifications
+### AV Certifications
   - Crestron Certified Programmer (December 2018)
   - AMX Control Certified Professional, Programming (August 2017)
   - Extron Control Specialist (October 2017)
   - QSC Q-SYS Level 2
   - Various other audio and video certifications
 
-## Publications
+### Publications
    - L. Everett, T. Garon, and A. Rock, Sizable Stop Mixing in Flavored Gauge Mediation Models with Discrete Non-Abelian Symmetries, [arXiv:1812.10811](http://arxiv.org/abs/arXiv:1812.10811)
    - L. Everett and T. Garon, Flavored Gauge Mediation with Discrete Non-Abelian Symmetries, Physical Review D, [0.1103/PhysRevD.97.095028](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.095028)
    - V. Barger, L. Everett, and T. Garon, Electroweak Naturalness and Deflected Mirage Mediation, Physical Review D, [10.1103/PhysRevD.93.075024](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.075024)
