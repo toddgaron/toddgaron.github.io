@@ -6,7 +6,7 @@ permalink: "/CV"
 
 ### Education
 
-  - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
+  -Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
    Advisor: Professor Lisa Everett
     
   - M.S. Physics, The University of Wisconsin - Madison, Madison WI (May 2013)
@@ -28,4 +28,5 @@ permalink: "/CV"
    - T. Garon, N. Mann, E. M. McManis, Re-examining the value of old quantization and the Bohr atom approach, American Journal of Physics, [10.1119/1.4769785](http://ajp.aapt.org/resource/1/ajpias/v81/i2/p92_s1)
    - J. Franklin, T. Garon, Approximate Born-Infeld effects on the relativistic hydrogen spectrum, Physics Letters A, [10.1016/j.physleta.2011.02.012](http://www.sciencedirect.com/science/article/pii/S0375960111001733)
 
+### Schools and Conferences
 
