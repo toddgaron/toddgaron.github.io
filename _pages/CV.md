@@ -6,11 +6,11 @@ permalink: "/CV"
 
 ### Education
   - Graduate, The Data Incubator, Washington DC (Decemember 2016)
-  - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
+  - Ph.D. Physics, University of Wisconsin - Madison, Madison WI (June 2016)  
   
-   Advisor: Professor Lisa Everett
+      Advisor: Professor Lisa Everett
     
-  - M.S. Physics, The University of Wisconsin - Madison, Madison WI (May 2013)
+  - M.S. Physics, University of Wisconsin - Madison, Madison WI (May 2013)
   - B.A. Physics, Reed College, Portland OR (May 2011)
 
 ### AV Certifications
@@ -29,7 +29,12 @@ permalink: "/CV"
    - T. Garon, N. Mann, E. M. McManis, Re-examining the value of old quantization and the Bohr atom approach, American Journal of Physics, [10.1119/1.4769785](http://ajp.aapt.org/resource/1/ajpias/v81/i2/p92_s1)
    - J. Franklin, T. Garon, Approximate Born-Infeld effects on the relativistic hydrogen spectrum, Physics Letters A, [10.1016/j.physleta.2011.02.012](http://www.sciencedirect.com/science/article/pii/S0375960111001733)
 
-### Schools and Conferences
-
-  - The Data Incubator - a tech bootcamp helping academics transition into data science
+### Teaching Experience
+  - Taught 8 semesters of physics courses to majors and non-majors, both at the upper and lower division at the University of Wisconsin - Madison (May 2016)
+  - Taught computer science and physics to undergraduates at Reed College (May 2011)
+  
+### Ephemera
+  - Served as an elected representative of the state of Wisconsin by sitting on the University of Wisconsin - Madison student council
+  - Managed a small computing cluster for large computations
+  - Licensed by the Nuclear Regulatory Agency to operator a 240 kW nuclear reactor
   
