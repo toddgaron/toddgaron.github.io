@@ -5,8 +5,7 @@ permalink: "/CV"
 ---
 
 ### Education
-
-  -Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
+  - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
    Advisor: Professor Lisa Everett
     
   - M.S. Physics, The University of Wisconsin - Madison, Madison WI (May 2013)
