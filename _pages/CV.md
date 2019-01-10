@@ -5,7 +5,9 @@ permalink: "/CV"
 ---
 
 ### Education
+  - Graduate, The Data Incubator, Washington DC (Decemember 2016)
   - Ph.D. Physics, The University of Wisconsin - Madison, Madison WI (June 2016)  
+  
    Advisor: Professor Lisa Everett
     
   - M.S. Physics, The University of Wisconsin - Madison, Madison WI (May 2013)
@@ -29,3 +31,5 @@ permalink: "/CV"
 
 ### Schools and Conferences
 
+  - The Data Incubator - a tech bootcamp helping academics transition into data science
+  
