@@ -14,10 +14,11 @@ permalink: "/CV"
   - B.A. Physics, Reed College, Portland OR (May 2011)
 
 ### AV Certifications
+  - CTS (January 2018)
   - Crestron Certified Programmer (December 2018)
   - AMX Control Certified Professional, Programming (August 2017)
   - Extron Control Specialist (October 2017)
-  - QSC Q-SYS Level 2
+  - QSC Q-SYS Level 2 (March 2018)
   - Various other audio and video certifications
 
 ### Publications
